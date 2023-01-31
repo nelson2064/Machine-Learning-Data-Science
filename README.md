@@ -1,4 +1,3 @@
-# Machine-Learning-Data-Science
 Machine-Learning-Data-Science
 
 
@@ -11,33 +10,7 @@ Through this bootcamp, I am gaining hands-on experience with popular machine lea
 I am excited to continue my journey in the field of machine learning and data science, and I am confident that the knowledge and skills that I am gaining through this bootcamp will be invaluable in my future endeavors. You can find my progress and the projects that I am working on as a part of this course on my GitHub profile. I am looking forward to sharing my work and experiences with others and learning from my peers in the community.
 
 
-<<<<<<< HEAD
-Github discription of course that i have followed  https://github.com/mrdbourke/zero-to-mastery-ml
 
-# Zero to Mastery Machine Learning
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrdbourke/zero-to-mastery-ml/master)
-[![Deepnote](https://deepnote.com/buttons/launch-in-deepnote.svg)](https://www.deepnote.com/launch?template=data-science&url=https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-pandas.ipynb)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrdbourke/zero-to-mastery-ml/blob/master)
-
-Welcome! This repository contains all of the code, notebooks, images and other materials related to the [Zero to Mastery Machine Learning Course on Udemy](https://dbourke.link/mlcourse) and [zerotomastery.io](https://dbourke.link/ZTMmlcourse).
-
-If you'd like to see anything in particular, please send me an email: [daniel@mrdbourke.com](mailto:daniel@mrdbourke.com) or leave an issue.
-
-## What this course focuses on
-
-1. Create a framework for working through problems ([6 step machine learning modelling framework](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-1-getting-ready-for-machine-learning/a-6-step-framework-for-approaching-machine-learning-projects.md))
-2. Find tools to fit the framework
-3. Targeted practice = use tools and framework steps to work on end-to-end machine learning modelling projects 
-
-## How this course is structured 
-
-* Section 1 - Getting your mind and computer ready for machine learning (concepts, computer setup)
-* Section 2 - Tools for machine learning and data science (pandas, NumPy, Matplotlib, Scikit-Learn)
-* Section 3 - End-to-end structured data projects (classification and regression)
-* Section 4 - Neural networks, deep learning and transfer learning with TensorFlow 2.0
-* Section 5 - Communicating and sharing your work
-
-=======
 
 
 
@@ -377,3 +350,43 @@ In the meantime, there are some things to note.
 
 **Tools of the trade vary. Machine learning is big tool comprised of many other tools.** From code libraries and frameworks to different deployment architectures. There’s usually several different ways to do the same thing. Best practice is continually being changed. This article focuses on things which don’t.
 >>>>>>> ea6bc66f7b1b34fdb79583d8cdfe7c1277a808ce
+
+
+
+
+
+
+
+
+
+Github discription of course that i have followed  https://github.com/mrdbourke/zero-to-mastery-ml
+
+# Zero to Mastery Machine Learning
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrdbourke/zero-to-mastery-ml/master)
+[![Deepnote](https://deepnote.com/buttons/launch-in-deepnote.svg)](https://www.deepnote.com/launch?template=data-science&url=https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-pandas.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrdbourke/zero-to-mastery-ml/blob/master)
+
+Welcome! This repository contains all of the code, notebooks, images and other materials related to the [Zero to Mastery Machine Learning Course on Udemy](https://dbourke.link/mlcourse) and [zerotomastery.io](https://dbourke.link/ZTMmlcourse).
+
+If you'd like to see anything in particular, please send me an email: [daniel@mrdbourke.com](mailto:daniel@mrdbourke.com) or leave an issue.
+
+## What this course focuses on
+
+1. Create a framework for working through problems ([6 step machine learning modelling framework](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-1-getting-ready-for-machine-learning/a-6-step-framework-for-approaching-machine-learning-projects.md))
+2. Find tools to fit the framework
+3. Targeted practice = use tools and framework steps to work on end-to-end machine learning modelling projects 
+
+## How this course is structured 
+
+* Section 1 - Getting your mind and computer ready for machine learning (concepts, computer setup)
+* Section 2 - Tools for machine learning and data science (pandas, NumPy, Matplotlib, Scikit-Learn)
+* Section 3 - End-to-end structured data projects (classification and regression)
+* Section 4 - Neural networks, deep learning and transfer learning with TensorFlow 2.0
+* Section 5 - Communicating and sharing your work
+
+
+
+
+
+
+
